@@ -24,8 +24,8 @@ For a detailed breakdown of the agentic workflow and system components, please s
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Siddharth243-dev/civiclink-agentic-search.git
-cd civiclink-agentic-search
+git clone https://github.com/everAspiring/civiclink_agentic_search.git
+cd civiclink_agentic_search
 ```
 
 ### 2. Set Up The Environment
